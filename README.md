@@ -11,8 +11,7 @@ Simple Calculator made in C# WinForms
 - Scientific Calculator
 - Temperature Calculator
 
+## Support
 
-## Feedback
-
-If you have any feedback, please reach out to us at codeMaestroy105@outlook.com
+If you encounter any issues or have suggestions for improvement, please submit an issue on the GitHub repository.
 
