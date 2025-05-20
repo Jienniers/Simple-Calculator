@@ -13,10 +13,15 @@ Simple Calculator made in C# WinForms
 ## Screenshots
 
 ![App Screenshot](https://github.com/Jienniers/Simple-Calculator/blob/main/Screenshots/Screenshot1.png)
+<br>
 ![App Screenshot](https://github.com/Jienniers/Simple-Calculator/blob/main/Screenshots/Screenshot2.png)
+<br>
 ![App Screenshot](https://github.com/Jienniers/Simple-Calculator/blob/main/Screenshots/Screenshot3.png)
+<br>
 ![App Screenshot](https://github.com/Jienniers/Simple-Calculator/blob/main/Screenshots/Screenshot4.png)
+<br>
 ![App Screenshot](https://github.com/Jienniers/Simple-Calculator/blob/main/Screenshots/Screenshot5.png)
+
 
 ## Support
 
