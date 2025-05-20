@@ -3,6 +3,11 @@
 Simple Calculator made in C# WinForms
 
 
+> ⚠️ **Project Status: Not Actively Maintained**  
+> This repository contains an older project that is no longer being updated.  
+> The codebase is functional but may include bugs or outdated practices.  
+> It remains public for reference and historical purposes.
+
 ## Features
 
 - On/Off Feature
