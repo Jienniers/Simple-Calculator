@@ -12,11 +12,11 @@ Simple Calculator made in C# WinForms
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Jienniers/YoutubeDownloaderWebApp/blob/main/screenshots/Screenshot1.png)
-![App Screenshot](https://github.com/Jienniers/YoutubeDownloaderWebApp/blob/main/screenshots/Screenshot2.png)
-![App Screenshot](https://github.com/Jienniers/YoutubeDownloaderWebApp/blob/main/screenshots/Screenshot3.png)
-![App Screenshot](https://github.com/Jienniers/YoutubeDownloaderWebApp/blob/main/screenshots/Screenshot4.png)
-![App Screenshot](https://github.com/Jienniers/YoutubeDownloaderWebApp/blob/main/screenshots/Screenshot5.png)
+![App Screenshot](https://github.com/Jienniers/Simple-Calculator/blob/main/screenshots/Screenshot1.png)
+![App Screenshot](https://github.com/Jienniers/Simple-Calculator/blob/main/screenshots/Screenshot2.png)
+![App Screenshot](https://github.com/Jienniers/Simple-Calculator/blob/main/screenshots/Screenshot3.png)
+![App Screenshot](https://github.com/Jienniers/Simple-Calculator/blob/main/screenshots/Screenshot4.png)
+![App Screenshot](https://github.com/Jienniers/Simple-Calculator/blob/main/screenshots/Screenshot5.png)
 
 ## Support
 
