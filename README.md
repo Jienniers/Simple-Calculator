@@ -1,12 +1,16 @@
 # 🧮 Simple Calculator
 
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Platform: Windows](https://img.shields.io/badge/Platform-Windows-blue)
+![Status: No Longer Maintained](https://img.shields.io/badge/Status-No%20Longer%20Maintained-red)
+
+
 A multifunctional calculator application developed in **C# WinForms**, featuring **Standard**, **Scientific**, **Data** and **Temperature** calculation modes.
 
 > ⚠️ **Project Status: Not Actively Maintained**
 > This repository contains an older project that is no longer being updated.
 > The codebase is functional but may include bugs or outdated practices.
 > It remains public for reference and historical purposes.
-> There are known issues and bugs which will not be addressed, as this project is no longer actively maintained.
 
 ---
 
@@ -41,12 +45,12 @@ This project was developed to enhance proficiency in Windows Forms applications 
 
 * **Standard Calculator**:
 
-  * Basic operations: addition, subtraction, multiplication, division.
+  * Basic operations: Addition, Subtraction, Multiplication and Division.
   * Clear and backspace functionalities.
 
 * **Scientific Calculator**:
 
-  * Advanced functions: sine, tangent, squareroot, exponentials and more.
+  * Advanced functions: sine, tangent, square root, exponentials and more.
   * Support for parentheses and complex expressions.
 
 * **Temperature Converter**:
@@ -61,6 +65,14 @@ This project was developed to enhance proficiency in Windows Forms applications 
 
   * Intuitive and user-friendly design.
   * Responsive layout for different screen sizes.
+
+---
+
+## 🧰 Tech Stack
+
+- **Language**: C#
+- **Framework**: WinForms
+- **IDE**: Visual Studio 2022
 
 ---
 
