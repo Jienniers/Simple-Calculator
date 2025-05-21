@@ -6,6 +6,7 @@ A multifunctional calculator application developed in **C# WinForms**, featuring
 > This repository contains an older project that is no longer being updated.
 > The codebase is functional but may include bugs or outdated practices.
 > It remains public for reference and historical purposes.
+> There are known issues and bugs which will not be addressed, as this project is no longer actively maintained.
 
 ---
 
