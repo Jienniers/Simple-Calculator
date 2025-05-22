@@ -12,6 +12,9 @@ A multifunctional calculator application developed in **C# WinForms**, featuring
 > The codebase is functional but may include bugs or outdated practices.
 > It remains public for reference and historical purposes.
 
+<br>
+🔴 Many major bugs have been reported in this project, like some features don't work as expected.
+
 ---
 
 ## 📌 Table of Contents
